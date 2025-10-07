@@ -1,1 +1,2 @@
 # programa-git
+git init
